@@ -1,0 +1,133 @@
+@media(max-width: 767px) {
+    .content-header {
+        flex-direction: row !important;
+    }
+}
+
+/* Fontawesome Custome Style */
+.fontawesome_icon_custom {
+    margin-right: 10px;
+    font-size: 20px;
+    color: #fff;
+}
+
+.cursor {
+    cursor: pointer;
+}
+
+.card-header {
+    background-color: #001F3F !important;
+    padding: 10px 20px;
+}
+
+.card-header h3 {
+    color: white !important;
+}
+
+/*SideMenu*/
+.menu-aside .menu-item.active .menu-link {
+    background-color: #5E23A6;
+    color: #fff;
+    border-radius: 15px 15px 0px 0px;
+}
+
+.menu-aside .submenu {
+    padding-top: 10px;
+    padding-left: 37px;
+    background-color: #5E23A6;
+    border-radius: 0px 0px 15px 15px;
+    margin: 0;
+    padding-bottom: 10px;
+}
+
+.menu-aside .submenu a {
+    color: #fff;
+}
+
+.menu-aside .submenu a:hover {
+    color: #fff;
+}
+
+.menu-aside .menu-item.active .submenu a.active {
+    background: #001F3F;
+    border-radius: 10px;
+    color: #fff !important;
+    margin-right: 21px;
+    border-radius: 3px;
+}
+
+.menu-aside .submenu a {
+    padding: 5px 0 5px 23px;
+    color: #fff;
+}
+
+.menu-aside .submenu a:before {
+    background-color: #fff;
+    left: 9px;
+}
+
+.menu-aside .menu-link {
+    color: #fff;
+}
+
+.menu-aside .menu-link:hover,
+.menu-aside .menu-link:focus {
+    background-color: rgb(94 35 166 / 60%);
+    color: #fff;
+}
+
+.menu-aside .menu-item.has-submenu>.menu-link:after {
+    border-top: 5px solid #ffffff;
+}
+
+.menu-aside .menu-item.has-submenu.active>.menu-link:after {
+    border-top: 5px solid #fff;
+}
+
+.menu-aside .menu-item.has-submenu>.menu-link:hover :after,
+.menu-aside .menu-item.has-submenu>.menu-link:focus :after {
+    color: #fff;
+}
+
+.menu-aside .menu-item.active .icon {
+    color: #ffffff;
+}
+
+.menu-aside .menu-item .icon {
+    color: #ffffff;
+}
+
+.sidebar-widgets {
+    color: #ffffff;
+}
+
+/*Multiple Select Custom*/
+.cit-multi-select .select2-container--default .select2-selection--multiple {
+    background-color: #f4f5f9;
+    border: none;
+    min-height: 45px;
+}
+
+.cit-multi-select .select2-container--default.select2-container--focus .select2-selection--multiple {
+    border: none;
+}
+
+.cit-multi-select .select2-container--default .select2-search--inline .select2-search__field {
+    border: none;
+    padding: 7px 12px;
+}
+
+.btn-success {
+    font-size: 14px;
+    font-weight: 500;
+    color: #ffffff;
+    border: none;
+    background-color: #001F3F;
+    border-radius: 4px;
+}
+
+.btn-success:hover {
+    border: 1px solid #001F3F;
+    background-color: #fff;
+    color: #001F3F;
+}

@@ -1,0 +1,4 @@
+[09-Mar-2024 02:40:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/beautyproductsbd/public_html/routes/web.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/routes/web.php on line 27

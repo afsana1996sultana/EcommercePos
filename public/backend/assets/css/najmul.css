@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'AwanZaman Regular';
+  src: url(./AwanZaman+Regular.eot);
+  src: url(./AwanZaman+Regular.eot?#iefix) format('embedded-opentype'),
+       url(./AwanZaman+Regular.otf) format('otf'),
+       url(./AwanZaman+Regular.svg#AwanZaman%20Regular) format('svg'),
+       url(./AwanZaman+Regular.ttf) format('truetype'),
+       url(./AwanZaman+Regular.woff) format('woff'),
+       url(./AwanZaman+Regular.woff2) format('woff2');
+}

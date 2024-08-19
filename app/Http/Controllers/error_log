@@ -1,0 +1,4 @@
+[14-Feb-2024 22:13:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/beautyproductsbd/public_html/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/app/Http/Controllers/Controller.php on line 10

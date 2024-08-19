@@ -1,0 +1,37 @@
+[14-Feb-2024 05:27:34 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/beautyproductsbd/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[14-Feb-2024 05:27:56 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/beautyproductsbd/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[14-Feb-2024 05:28:45 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/beautyproductsbd/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[14-Feb-2024 05:29:06 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/beautyproductsbd/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[14-Feb-2024 05:29:52 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/beautyproductsbd/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[15-Feb-2024 10:58:16 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 135168 bytes) in /home/beautyproductsbd/public_html/app/Utility/CategoryUtility.php on line 41
+[15-Feb-2024 10:58:23 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 135168 bytes) in /home/beautyproductsbd/public_html/app/Utility/CategoryUtility.php on line 41
+[15-Feb-2024 10:58:49 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 135168 bytes) in /home/beautyproductsbd/public_html/app/Utility/CategoryUtility.php on line 41
+[15-Feb-2024 10:58:56 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 135168 bytes) in /home/beautyproductsbd/public_html/app/Utility/CategoryUtility.php on line 41
+[15-Feb-2024 11:03:05 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 135168 bytes) in /home/beautyproductsbd/public_html/app/Utility/CategoryUtility.php on line 41
+[15-Feb-2024 12:28:42 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 135168 bytes) in /home/beautyproductsbd/public_html/app/Utility/CategoryUtility.php on line 41
+[15-Feb-2024 12:49:44 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 135168 bytes) in /home/beautyproductsbd/public_html/app/Utility/CategoryUtility.php on line 41
+[15-Feb-2024 12:49:53 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 135168 bytes) in /home/beautyproductsbd/public_html/app/Utility/CategoryUtility.php on line 41
+[16-Feb-2024 08:13:18 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 135168 bytes) in /home/beautyproductsbd/public_html/app/Utility/CategoryUtility.php on line 41
+[16-Feb-2024 08:13:24 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 135168 bytes) in /home/beautyproductsbd/public_html/app/Utility/CategoryUtility.php on line 41
+[16-Feb-2024 08:13:38 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 135168 bytes) in /home/beautyproductsbd/public_html/app/Utility/CategoryUtility.php on line 41
+[16-Feb-2024 08:16:28 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 135168 bytes) in /home/beautyproductsbd/public_html/app/Utility/CategoryUtility.php on line 41
+[16-Feb-2024 08:16:37 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 135168 bytes) in /home/beautyproductsbd/public_html/app/Utility/CategoryUtility.php on line 41
+[16-Feb-2024 08:16:49 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 135168 bytes) in /home/beautyproductsbd/public_html/app/Utility/CategoryUtility.php on line 41
+[16-Feb-2024 08:16:54 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 135168 bytes) in /home/beautyproductsbd/public_html/app/Utility/CategoryUtility.php on line 41
+[16-Feb-2024 08:18:10 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 135168 bytes) in /home/beautyproductsbd/public_html/app/Utility/CategoryUtility.php on line 41
+[16-Feb-2024 08:24:29 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 135168 bytes) in /home/beautyproductsbd/public_html/app/Utility/CategoryUtility.php on line 41
+[18-Feb-2024 05:57:59 UTC] PHP Warning:  require(/home/beautyproductsbd/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/beautyproductsbd/public_html/public/index.php on line 34
+[18-Feb-2024 05:57:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/beautyproductsbd/public_html/public/../vendor/autoload.php' (include_path='.:/usr/local/apps/php81/lib/php') in /home/beautyproductsbd/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/public/index.php on line 34
+[18-Feb-2024 05:58:05 UTC] PHP Warning:  require(/home/beautyproductsbd/public_html/vendor/autoload.php): Failed to open stream: No such file or directory in /home/beautyproductsbd/public_html/public/index.php on line 34
+[18-Feb-2024 05:58:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/beautyproductsbd/public_html/public/../vendor/autoload.php' (include_path='.:/usr/local/apps/php81/lib/php') in /home/beautyproductsbd/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/public/index.php on line 34
+[18-Feb-2024 05:58:05 UTC] PHP Warning:  require(/home/beautyproductsbd/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/beautyproductsbd/public_html/public/index.php on line 34
+[18-Feb-2024 05:58:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/beautyproductsbd/public_html/public/../vendor/autoload.php' (include_path='.:/usr/local/apps/php81/lib/php') in /home/beautyproductsbd/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/public/index.php on line 34

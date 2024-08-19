@@ -1,0 +1,8 @@
+[14-Feb-2024 22:24:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/beautyproductsbd/public_html/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/app/Http/Middleware/Authenticate.php on line 7
+[14-Feb-2024 23:11:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/beautyproductsbd/public_html/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/beautyproductsbd/public_html/app/Http/Middleware/EncryptCookies.php on line 7
